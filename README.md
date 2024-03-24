@@ -1,5 +1,1 @@
 # EkoVille test
-
-test
-
-test
